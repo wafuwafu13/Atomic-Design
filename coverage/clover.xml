@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1594622372020" clover="3.2.0">
+  <project timestamp="1594622372020" name="All files">
+    <metrics statements="328" coveredstatements="0" conditionals="427" coveredconditionals="0" methods="192" coveredmethods="0" elements="947" coveredelements="0" complexity="0" loc="328" ncloc="328" packages="26" files="31" classes="31">
+      <package name="src">
+        <metrics statements="4" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <file name="client.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/client.js">
+          <metrics statements="4" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="5" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components.atoms.Anchor">
+        <metrics statements="4" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <file name="index.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/components/atoms/Anchor/index.js">
+          <metrics statements="4" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="3" coveredmethods="0"/>
+          <line num="1" count="0" type="cond" truecount="0" falsecount="8"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components.atoms.Balloon">
+        <metrics statements="7" coveredstatements="0" conditionals="12" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <file name="index.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/components/atoms/Balloon/index.js">
+          <metrics statements="7" coveredstatements="0" conditionals="12" coveredconditionals="0" methods="5" coveredmethods="0"/>
+          <line num="1" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="cond" truecount="0" falsecount="8"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="12" count="0" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components.atoms.Button">
+        <metrics statements="6" coveredstatements="0" conditionals="12" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <file name="index.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/components/atoms/Button/index.js">
+          <metrics statements="6" coveredstatements="0" conditionals="12" coveredconditionals="0" methods="5" coveredmethods="0"/>
+          <line num="1" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="2" count="0" type="cond" truecount="0" falsecount="8"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="10" count="0" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="12" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components.atoms.Heading">
+        <metrics statements="24" coveredstatements="0" conditionals="16" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <file name="index.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/components/atoms/Heading/index.js">
+          <metrics statements="24" coveredstatements="0" conditionals="16" coveredconditionals="0" methods="6" coveredmethods="0"/>
+          <line num="1" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="cond" truecount="0" falsecount="8"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="9" count="0" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="16" count="0" type="stmt"/>
+          <line num="17" count="0" type="stmt"/>
+          <line num="18" count="0" type="stmt"/>
+          <line num="20" count="0" type="stmt"/>
+          <line num="23" count="0" type="stmt"/>
+          <line num="28" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="29" count="0" type="stmt"/>
+          <line num="30" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="31" count="0" type="stmt"/>
+          <line num="33" count="0" type="stmt"/>
+          <line num="34" count="0" type="stmt"/>
+          <line num="36" count="0" type="stmt"/>
+          <line num="39" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components.atoms.HolyGrailLayout">
+        <metrics statements="24" coveredstatements="0" conditionals="16" coveredconditionals="0" methods="12" coveredmethods="0"/>
+        <file name="index.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/components/atoms/HolyGrailLayout/index.js">
+          <metrics statements="24" coveredstatements="0" conditionals="16" coveredconditionals="0" methods="12" coveredmethods="0"/>
+          <line num="1" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="cond" truecount="0" falsecount="8"/>
+          <line num="5" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="18" count="0" type="stmt"/>
+          <line num="20" count="0" type="stmt"/>
+          <line num="21" count="0" type="stmt"/>
+          <line num="22" count="0" type="stmt"/>
+          <line num="25" count="0" type="stmt"/>
+          <line num="34" count="0" type="stmt"/>
+          <line num="35" count="0" type="stmt"/>
+          <line num="36" count="0" type="stmt"/>
+          <line num="37" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="38" count="0" type="stmt"/>
+          <line num="40" count="0" type="stmt"/>
+          <line num="41" count="0" type="stmt"/>
+          <line num="44" count="0" type="stmt"/>
+          <line num="47" count="0" type="stmt"/>
+          <line num="48" count="0" type="stmt"/>
+          <line num="49" count="0" type="stmt"/>
+          <line num="50" count="0" type="stmt"/>
+          <line num="51" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components.atoms.HoverTipInteraction">
+        <metrics statements="18" coveredstatements="0" conditionals="16" coveredconditionals="0" methods="8" coveredmethods="0"/>
+        <file name="index.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/components/atoms/HoverTipInteraction/index.js">
+          <metrics statements="18" coveredstatements="0" conditionals="16" coveredconditionals="0" methods="8" coveredmethods="0"/>
+          <line num="1" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="cond" truecount="0" falsecount="8"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="12" count="0" type="stmt"/>
+          <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="18" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="19" count="0" type="stmt"/>
+          <line num="20" count="0" type="stmt"/>
+          <line num="24" count="0" type="stmt"/>
+          <line num="26" count="0" type="stmt"/>
+          <line num="29" count="0" type="stmt"/>
+          <line num="33" count="0" type="stmt"/>
+          <line num="34" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components.atoms.Icon">
+        <metrics statements="19" coveredstatements="0" conditionals="20" coveredconditionals="0" methods="8" coveredmethods="0"/>
+        <file name="index.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/components/atoms/Icon/index.js">
+          <metrics statements="19" coveredstatements="0" conditionals="20" coveredconditionals="0" methods="8" coveredmethods="0"/>
+          <line num="1" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="2" count="0" type="cond" truecount="0" falsecount="8"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="6" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="7" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="19" count="0" type="stmt"/>
+          <line num="24" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="25" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="26" count="0" type="stmt"/>
+          <line num="27" count="0" type="stmt"/>
+          <line num="29" count="0" type="stmt"/>
+          <line num="31" count="0" type="stmt"/>
+          <line num="36" count="0" type="stmt"/>
+          <line num="37" count="0" type="stmt"/>
+          <line num="38" count="0" type="stmt"/>
+          <line num="39" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components.atoms.Img">
+        <metrics statements="3" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <file name="index.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/components/atoms/Img/index.js">
+          <metrics statements="3" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="1" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components.atoms.MediaObjectLayout">
+        <metrics statements="5" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <file name="index.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/components/atoms/MediaObjectLayout/index.js">
+          <metrics statements="5" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="4" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components.atoms.StickyHeaderLayout">
+        <metrics statements="5" coveredstatements="0" conditionals="10" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <file name="index.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/components/atoms/StickyHeaderLayout/index.js">
+          <metrics statements="5" coveredstatements="0" conditionals="10" coveredconditionals="0" methods="3" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="cond" truecount="0" falsecount="8"/>
+          <line num="4" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components.atoms.TextBox">
+        <metrics statements="5" coveredstatements="0" conditionals="12" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <file name="index.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/components/atoms/TextBox/index.js">
+          <metrics statements="5" coveredstatements="0" conditionals="12" coveredconditionals="0" methods="4" coveredmethods="0"/>
+          <line num="1" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="2" count="0" type="cond" truecount="0" falsecount="8"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components.atoms.Time">
+        <metrics statements="20" coveredstatements="0" conditionals="22" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <file name="index.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/components/atoms/Time/index.js">
+          <metrics statements="20" coveredstatements="0" conditionals="22" coveredconditionals="0" methods="7" coveredmethods="0"/>
+          <line num="1" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="cond" truecount="0" falsecount="8"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="18" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="19" count="0" type="stmt"/>
+          <line num="21" count="0" type="stmt"/>
+          <line num="24" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="25" count="0" type="stmt"/>
+          <line num="28" count="0" type="stmt"/>
+          <line num="29" count="0" type="stmt"/>
+          <line num="31" count="0" type="stmt"/>
+          <line num="34" count="0" type="stmt"/>
+          <line num="37" count="0" type="stmt"/>
+          <line num="40" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="41" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components.atoms.Txt">
+        <metrics statements="7" coveredstatements="0" conditionals="16" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <file name="index.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/components/atoms/Txt/index.js">
+          <metrics statements="7" coveredstatements="0" conditionals="16" coveredconditionals="0" methods="5" coveredmethods="0"/>
+          <line num="1" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="2" count="0" type="cond" truecount="0" falsecount="8"/>
+          <line num="4" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="12" count="0" type="stmt"/>
+          <line num="13" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components.molecules.Breadcrumb">
+        <metrics statements="9" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <file name="index.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/components/molecules/Breadcrumb/index.js">
+          <metrics statements="9" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="3" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="8" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="10" count="0" type="stmt"/>
+          <line num="12" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="17" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components.molecules.DeleteButton">
+        <metrics statements="8" coveredstatements="0" conditionals="12" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <file name="index.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/components/molecules/DeleteButton/index.js">
+          <metrics statements="8" coveredstatements="0" conditionals="12" coveredconditionals="0" methods="4" coveredmethods="0"/>
+          <line num="1" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="5" count="0" type="cond" truecount="0" falsecount="8"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="10" count="0" type="stmt"/>
+          <line num="14" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components.molecules.MailAuthForm">
+        <metrics statements="7" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <file name="index.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/components/molecules/MailAuthForm/index.js">
+          <metrics statements="7" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="3" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="cond" truecount="0" falsecount="8"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="16" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components.molecules.Navigation">
+        <metrics statements="7" coveredstatements="0" conditionals="10" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <file name="index.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/components/molecules/Navigation/index.js">
+          <metrics statements="7" coveredstatements="0" conditionals="10" coveredconditionals="0" methods="4" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="cond" truecount="0" falsecount="8"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="13" count="0" type="stmt"/>
+          <line num="20" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components.organisms.Header">
+        <metrics statements="6" coveredstatements="0" conditionals="12" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <file name="index.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/components/organisms/Header/index.js">
+          <metrics statements="6" coveredstatements="0" conditionals="12" coveredconditionals="0" methods="4" coveredmethods="0"/>
+          <line num="1" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="cond" truecount="0" falsecount="8"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="10" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components.organisms.Notification">
+        <metrics statements="27" coveredstatements="0" conditionals="43" coveredconditionals="0" methods="14" coveredmethods="0"/>
+        <file name="index.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/components/organisms/Notification/index.js">
+          <metrics statements="27" coveredstatements="0" conditionals="43" coveredconditionals="0" methods="14" coveredmethods="0"/>
+          <line num="1" count="0" type="cond" truecount="0" falsecount="12"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="9" count="0" type="cond" truecount="0" falsecount="27"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="12" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="18" count="0" type="stmt"/>
+          <line num="19" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="20" count="0" type="stmt"/>
+          <line num="21" count="0" type="stmt"/>
+          <line num="25" count="0" type="stmt"/>
+          <line num="26" count="0" type="stmt"/>
+          <line num="27" count="0" type="stmt"/>
+          <line num="30" count="0" type="stmt"/>
+          <line num="31" count="0" type="stmt"/>
+          <line num="32" count="0" type="stmt"/>
+          <line num="33" count="0" type="stmt"/>
+          <line num="34" count="0" type="stmt"/>
+          <line num="44" count="0" type="stmt"/>
+          <line num="48" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components.organisms.NotificationList">
+        <metrics statements="10" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <file name="index.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/components/organisms/NotificationList/index.js">
+          <metrics statements="10" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="4" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="cond" truecount="0" falsecount="8"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="16" count="0" type="stmt"/>
+          <line num="21" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components.organisms.PageHeader">
+        <metrics statements="6" coveredstatements="0" conditionals="12" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <file name="index.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/components/organisms/PageHeader/index.js">
+          <metrics statements="6" coveredstatements="0" conditionals="12" coveredconditionals="0" methods="4" coveredmethods="0"/>
+          <line num="1" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="cond" truecount="0" falsecount="8"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="10" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components.pages">
+        <metrics statements="22" coveredstatements="0" conditionals="33" coveredconditionals="0" methods="14" coveredmethods="0"/>
+        <file name="NotificationListPage.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/components/pages/NotificationListPage.js">
+          <metrics statements="22" coveredstatements="0" conditionals="33" coveredconditionals="0" methods="14" coveredmethods="0"/>
+          <line num="1" count="0" type="cond" truecount="0" falsecount="8"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="5" count="0" type="cond" truecount="0" falsecount="23"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="9" count="0" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="12" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="16" count="0" type="stmt"/>
+          <line num="17" count="0" type="stmt"/>
+          <line num="20" count="0" type="stmt"/>
+          <line num="24" count="0" type="stmt"/>
+          <line num="28" count="0" type="stmt"/>
+          <line num="29" count="0" type="stmt"/>
+          <line num="30" count="0" type="stmt"/>
+          <line num="41" count="0" type="stmt"/>
+          <line num="45" count="0" type="stmt"/>
+          <line num="46" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components.templates.NotificationListTemplate">
+        <metrics statements="9" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <file name="index.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/components/templates/NotificationListTemplate/index.js">
+          <metrics statements="9" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="6" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="16" count="0" type="stmt"/>
+          <line num="22" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components.utils">
+        <metrics statements="6" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <file name="HoC.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/components/utils/HoC.js">
+          <metrics statements="4" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="5" coveredmethods="0"/>
+          <line num="1" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="3" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+        </file>
+        <file name="decorators.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/components/utils/decorators.js">
+          <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.mock">
+        <metrics statements="60" coveredstatements="0" conditionals="95" coveredconditionals="0" methods="58" coveredmethods="0"/>
+        <file name="ActionCreator.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/mock/ActionCreator.js">
+          <metrics statements="9" coveredstatements="0" conditionals="24" coveredconditionals="0" methods="21" coveredmethods="0"/>
+          <line num="1" count="0" type="cond" truecount="0" falsecount="16"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="6" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="9" count="0" type="stmt"/>
+          <line num="10" count="0" type="stmt"/>
+          <line num="13" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="15" count="0" type="stmt"/>
+        </file>
+        <file name="EventEmitter.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/mock/EventEmitter.js">
+          <metrics statements="13" coveredstatements="0" conditionals="14" coveredconditionals="0" methods="11" coveredmethods="0"/>
+          <line num="1" count="0" type="cond" truecount="0" falsecount="10"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="7" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="10" count="0" type="stmt"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="18" count="0" type="stmt"/>
+          <line num="19" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="20" count="0" type="stmt"/>
+          <line num="21" count="0" type="stmt"/>
+        </file>
+        <file name="Store.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/mock/Store.js">
+          <metrics statements="22" coveredstatements="0" conditionals="41" coveredconditionals="0" methods="14" coveredmethods="0"/>
+          <line num="1" count="0" type="cond" truecount="0" falsecount="33"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="9" count="0" type="stmt"/>
+          <line num="10" count="0" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="22" count="0" type="stmt"/>
+          <line num="23" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="24" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="25" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="26" count="0" type="stmt"/>
+          <line num="30" count="0" type="stmt"/>
+          <line num="31" count="0" type="stmt"/>
+          <line num="32" count="0" type="stmt"/>
+          <line num="33" count="0" type="stmt"/>
+          <line num="34" count="0" type="stmt"/>
+          <line num="35" count="0" type="stmt"/>
+        </file>
+        <file name="data.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/mock/data.js">
+          <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="59" count="0" type="stmt"/>
+          <line num="67" count="0" type="stmt"/>
+          <line num="72" count="0" type="stmt"/>
+        </file>
+        <file name="http.js" path="/Users/tagawahirotaka/Desktop/ui-components/src/mock/http.js">
+          <metrics statements="12" coveredstatements="0" conditionals="16" coveredconditionals="0" methods="12" coveredmethods="0"/>
+          <line num="1" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="8" count="0" type="cond" truecount="0" falsecount="5"/>
+          <line num="9" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="10" count="0" type="stmt"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="17" count="0" type="stmt"/>
+          <line num="21" count="0" type="cond" truecount="0" falsecount="5"/>
+          <line num="22" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="23" count="0" type="stmt"/>
+          <line num="24" count="0" type="stmt"/>
+          <line num="26" count="0" type="stmt"/>
+          <line num="28" count="0" type="stmt"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>

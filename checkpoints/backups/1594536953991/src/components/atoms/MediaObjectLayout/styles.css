@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+  }
+  
+.body {
+  flex: 1;
+  min-width: 0;
+}
+  
